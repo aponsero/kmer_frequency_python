@@ -4,7 +4,7 @@ Python script to compute kmer frequency profile from Fasta formated sequences
 ## Dependencies
 This script requires the installation of the biopython library : https://biopython.org/wiki/Download
 
-Recent versions of Python (starting with Python 2.7.9 and Python 3.4) include the Python package management tool pip, which allows an easy installation from the command line on all platforms. Try:
+For recent versions of Python (starting with Python 2.7.9 and Python 3.4), try:
 
 ```bash
 pip install biopython

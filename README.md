@@ -11,7 +11,7 @@ pip install biopython
 ```
 
 ## Quick start
-Run the exemple file using a kmer size of 4.
+Run the exemple file (2000 sequences) using a kmer size of 4.
 
 ```bash
 DB="file_test.fasta"

@@ -17,7 +17,7 @@ Run the exemple file using a kmer size of 4.
 DB="file_test.fasta"
 KM_SIZE=4
 RUN="kmer_freq.py"
-OUT="python_output_file1_k4.tab"
+OUT="test_expected.tab"
 
 python3 $RUN -f $DB -k $KM_SIZE > $OUT
 ```
